@@ -1,0 +1,8 @@
+* one-shot
+https://gist.github.com/rodw/3073987#gistcomment-905180
+
+* not an issue
+https://github.com/jwiegley/notes/issues/1#issue-142580904
+
+* cut
+https://magit.vc/manual/magit/Installxxxation.html#Installation
